@@ -1,0 +1,2 @@
+# IA_aplicada_al_crecimiento_personal_y_profesioal
+Documentación y Progreso del seminario IA
