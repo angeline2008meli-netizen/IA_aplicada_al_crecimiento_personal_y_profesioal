@@ -13,10 +13,10 @@ el Mundial 2026, aprovechando el mayor flujo de turistas.
 Ambos relacionados con Zapotlanejo, Puente de Calderón, orgullo de Zapo.
 
 ** 1.3 Creación de contenido**: Públicar 20 videos en Reels/TikTok en 5 semanas para atraer  del mundial y paisanos en verano.
-Meta: Pasar de 0 a 4 consultas por WatsApp por semana en Temporada baja.
+Meta: Pasar de 0 a 4 consultas por WhatsApp por semana en Temporada baja.
 
 ** 1.4 Validación de mercado**: Antes de mandar a hacer 50 piezas, voy a enseñarle 
-los 2 diseños nuevos de imanes a 10 personas de Zapotlanejo por WhatsApp. 
+los 2 diseños nuevos de imanes a 10 personas de Zapotlanejo por watsApp. 
 Les preguntaré: "¿Comprarías este imán por $60 para el Mundial?". 
 Meta: Si 6 de 10 me dicen que sí, mando a producir. Si menos de 6 dicen que sí, le cambio la broma o el dibujo con ayuda de ChatGPT y vuelvo a preguntar.
 
@@ -33,11 +33,11 @@ Meta: Vender 5 de 10 para validar que el diseño de Zapo funciona también en GD
 
 3. **Criterio de evaluación Métrica**
 
-- **Linea base actual** 0 Consultas por watsApp por semana entre enero y octubre, solo tengo ventas en noviembre y diciembre
+- **Linea base actual** 0 Consultas por WhatsApp por semana entre enero y octubre, solo tengo ventas en noviembre y diciembre
 
 - **Metrica Principal**Conseguir 4 consultas por watsApp en una sola semana durante junio y julio. 
 
 - **Metrica secundaria** 2 diseños nuevos de imanes listos para producir y 5 videos publicados.
 - **Puntos de control**Si al terminar julio sigo en 0 consultas, significa que dejo cambiar de técnica o de productos o de mensaje en la IA
 
-4. **Hipótesis de investigación**. Si uso las 3 IA con roles diferentes para investigar, crear y vende souvenirs del mundial 2026, lograré mis primera 4 ventas por watsApp en temporada baja. y dejaré de depender solo de Noviembre y Diciembre.
+4. **Hipótesis de investigación**. Si uso las 3 IA con roles diferentes para investigar, crear y vende souvenirs del mundial 2026, lograré mis primera 4 ventas por WhatsApp en temporada baja. y dejaré de depender solo de Noviembre y Diciembre.
