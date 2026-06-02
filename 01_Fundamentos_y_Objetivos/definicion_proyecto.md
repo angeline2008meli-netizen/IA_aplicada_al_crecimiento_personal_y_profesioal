@@ -11,7 +11,13 @@ el Mundial 2026, aprovechando el mayor flujo de turistas.
 1 de Zapotlanejo con temática "todo el año" y 1 adaptado para Guadalajara con temática Mundial 2026. 
 Ambos relacionados con Zapotlanejo, Puente de Calderón, orgullo de Zapo.
 
-** 1.3 Creación de contenido** Pública 20 videos en Reels/TikTok en 5 semanas para atraer  del mundial y paisanos en verano. Meta: Pasar de 0 a 4 consultas por WatsApp por semana en Temporada baja.
+** 1.3 Creación de contenido** Pública 20 videos en Reels/TikTok en 5 semanas para atraer  del mundial y paisanos en verano. Meta: Pasar de 0 a 4 consultas por WatsApp por semana en Temporada baja.1.4 Validación de mercado**: Antes de mandar a hacer 50 piezas, voy a enseñarle 
+los 2 diseños nuevos de imanes a 10 personas de Zapotlanejo por WhatsApp. 
+Les preguntaré: "¿Comprarías este imán por $60 para el Mundial?". 
+Meta: Si 6 de 10 me dicen que sí, mando a producir. Si menos de 6 dicen que sí, le cambio la broma o el dibujo con ayuda de ChatGPT y vuelvo a preguntar.
+
+**1.5 Expansión geográfica**: Probar venta de 10 imanes en puntos turísticos de Guadalajara en Junio 2026. 
+Meta: Vender 5 de 10 para validar que el diseño de Zapo funciona también en GDL.
 
 2. **Herramienta seleccionada**:
 - **META AI** Como "investigador conectado" para descubrir que compran los turistas en Zapotlanejo y Guadalajara de junio a Octubre.
