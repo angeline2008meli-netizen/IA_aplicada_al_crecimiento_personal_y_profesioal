@@ -15,10 +15,7 @@ Ambos relacionados con Zapotlanejo, Puente de Calderón, orgullo de Zapo.
 ** 1.3 Creación de contenido**: Públicar 20 videos en Reels/TikTok en 5 semanas para atraer  del mundial y paisanos en verano.
 Meta: Pasar de 0 a 4 consultas por WhatsApp por semana en Temporada baja.
 
-** 1.4 Validación de mercado**: Antes de mandar a hacer 50 piezas, voy a enseñarle 
-los 2 diseños nuevos de imanes a 10 personas de Zapotlanejo por WhatsApp. 
-Les preguntaré: "¿Comprarías este imán por $60 para el Mundial?". 
-Meta: Si 6 de 10 me dicen que sí, mando a producir. Si menos de 6 dicen que sí, le cambio la broma o el dibujo con ayuda de ChatGPT y vuelvo a preguntar.
+** 1.4 Validación de mercado**: Antes de mandar a hacer 50 piezas, voy a enseñarle los 2 diseños nuevos de imanes a 10 personas de Zapotlanejo por WhatsApp. Les preguntaré: "¿Comprarías este imán por $60 para el Mundial?". Meta: Si 6 de 10 me dicen que sí, mando a producir. Si menos de 6 dicen que sí, le cambio la broma o el dibujo con ayuda de ChatGPT y vuelvo a preguntar.
 
 **1.5 Expansión geográfica**: Probar venta de 10 imanes en puntos turísticos de Guadalajara en Junio 2026. 
 Meta: Vender 5 de 10 para validar que el diseño de Zapo funciona también en GDL.
@@ -27,13 +24,13 @@ Meta: Vender 5 de 10 para validar que el diseño de Zapo funciona también en GD
 
 - **META AI** Como "investigador conectado" para descubrir que compran los turistas en Zapotlanejo y Guadalajara de junio a Octubre.
 
-- **CHAT GPT** Como "Creativo de productos" par generar 3 variaciones de productos broma para cada diseño de iman en 2 minutos.
+- **CHAT GPT** Como "Creativo de productos" para generar 3 variaciones de productos broma para cada diseño de iman en 2 minutos.
 
 - **GEMINI** "Como analista estructurado" para redactar textos de imanes sin tema de la catrina y guiones de Reels de 15s.
 
 3. **Criterio de evaluación Métrica**
 
-- **Linea base actual**: 0 Consultas por WhatsApp por semana entre enero y octubre, solo tengo ventas en noviembre y diciembre
+- **Línea base actual**: 0 Consultas por WhatsApp por semana entre enero y octubre, solo tengo ventas en noviembre y diciembre
 
 - **Métrica Principal**: Conseguir 4 consultas por watsApp en una sola semana durante junio y julio. 
 
