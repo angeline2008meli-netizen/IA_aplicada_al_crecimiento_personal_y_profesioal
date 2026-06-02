@@ -12,7 +12,8 @@ el Mundial 2026, aprovechando el mayor flujo de turistas.
 1 de Zapotlanejo con temática "todo el año" y 1 adaptado para Guadalajara con temática Mundial 2026. 
 Ambos relacionados con Zapotlanejo, Puente de Calderón, orgullo de Zapo.
 
-** 1.3 Creación de contenido** Públicar 20 videos en Reels/TikTok en 5 semanas para atraer  del mundial y paisanos en verano. Meta: Pasar de 0 a 4 consultas por WatsApp por semana en Temporada baja.
+** 1.3 Creación de contenido**: Públicar 20 videos en Reels/TikTok en 5 semanas para atraer  del mundial y paisanos en verano.
+Meta: Pasar de 0 a 4 consultas por WatsApp por semana en Temporada baja.
 
 ** 1.4 Validación de mercado**: Antes de mandar a hacer 50 piezas, voy a enseñarle 
 los 2 diseños nuevos de imanes a 10 personas de Zapotlanejo por WhatsApp. 
@@ -30,7 +31,7 @@ Meta: Vender 5 de 10 para validar que el diseño de Zapo funciona también en GD
 
 - **GEMINI** "Como analista estructurado" para redactar textos de imanes sin tema de la catrina y guiones de Reels de 15s.
 
-3. **Criterio de evaluación metrítica**
+3. **Criterio de evaluación Métrica**
 
 - **Linea base actual** 0 Consultas por watsApp por semana entre enero y octubre, solo tengo ventas en noviembre y diciembre
 
