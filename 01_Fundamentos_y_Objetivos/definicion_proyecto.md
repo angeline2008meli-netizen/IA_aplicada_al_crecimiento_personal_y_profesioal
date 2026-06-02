@@ -35,9 +35,10 @@ Meta: Vender 5 de 10 para validar que el diseño de Zapo funciona también en GD
 
 - **Linea base actual** 0 Consultas por WhatsApp por semana entre enero y octubre, solo tengo ventas en noviembre y diciembre
 
-- **Metrica Principal**Conseguir 4 consultas por watsApp en una sola semana durante junio y julio. 
+- **Metrica Principal** Conseguir 4 consultas por watsApp en una sola semana durante junio y julio. 
 
 - **Metrica secundaria** 2 diseños nuevos de imanes listos para producir y 5 videos publicados.
-- **Puntos de control**Si al terminar julio sigo en 0 consultas, significa que dejo cambiar de técnica o de productos o de mensaje en la IA
 
-4. **Hipótesis de investigación**. Si uso las 3 IA con roles diferentes para investigar, crear y vende souvenirs del mundial 2026, lograré mis primera 4 ventas por WhatsApp en temporada baja. y dejaré de depender solo de Noviembre y Diciembre.
+- **Puntos de control** Si al terminar julio sigo en 0 consultas, significa que dejo cambiar de técnica o de productos o de mensaje en la IA
+
+4. **Hipótesis de investigación**. Si uso las 3 IA con roles diferentes para investigar, crear y vender souvenirs del mundial 2026, lograré mis primeras 4 ventas por WhatsApp en temporada baja. y dejaré de depender solo de Noviembre y Diciembre.
