@@ -16,7 +16,7 @@ Ambos relacionados con Zapotlanejo, Puente de Calderón, orgullo de Zapo.
 Meta: Pasar de 0 a 4 consultas por WhatsApp por semana en Temporada baja.
 
 ** 1.4 Validación de mercado**: Antes de mandar a hacer 50 piezas, voy a enseñarle 
-los 2 diseños nuevos de imanes a 10 personas de Zapotlanejo por watsApp. 
+los 2 diseños nuevos de imanes a 10 personas de Zapotlanejo por WhatsApp. 
 Les preguntaré: "¿Comprarías este imán por $60 para el Mundial?". 
 Meta: Si 6 de 10 me dicen que sí, mando a producir. Si menos de 6 dicen que sí, le cambio la broma o el dibujo con ayuda de ChatGPT y vuelvo a preguntar.
 
