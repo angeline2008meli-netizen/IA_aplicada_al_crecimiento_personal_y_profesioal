@@ -5,10 +5,11 @@ temporada baja. Como estrategia de expansión, adaptaré 1 diseño para vender e
 el Mundial 2026, aprovechando el mayor flujo de turistas.
 
 **Sub-Objetivos medibles:**
-
 **1.1. Ideación asistida **: Sesión diaria de 15 a 20 minutos con la IA para generar ideas de souvenirs vendibles entre junio y octubre. Meta: banco de 75 ideas fuera de temporada. 
 
-**1.2 Creación de imanes físicos**: Usar la IA PARA DISEÑAR 2 nuevos modelos de imanes de refri de Zapotlanejo y Guadalajara con temática"todo el año" "Playeras, tazas, llaveros, imanes, todo relacionado con Zapotlanejo, puente de calderon, orgullo de Zapo. Mundial 2026.
+**1.2 Creación de imanes físicos**: Usar la IA para diseñar 2 nuevos modelos de imanes de refri: 
+1 de Zapotlanejo con temática "todo el año" y 1 adaptado para Guadalajara con temática Mundial 2026. 
+Ambos relacionados con Zapotlanejo, Puente de Calderón, orgullo de Zapo.
 
 ** 1.3 Creación de contenido** Pública 20 videos en Reels/TikTok en 5 semanas para atraer  del mundial y paisanos en verano. Meta: Pasar de 0 a 4 consultas por WatsApp por semana en Temporada baja.
 
