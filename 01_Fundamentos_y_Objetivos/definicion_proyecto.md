@@ -5,6 +5,7 @@ temporada baja. Como estrategia de expansión, adaptaré 1 diseño para vender e
 el Mundial 2026, aprovechando el mayor flujo de turistas.
 
 **Sub-Objetivos medibles:**
+
 **1.1. Ideación asistida **: Sesión diaria de 15 a 20 minutos con la IA para generar ideas de souvenirs vendibles entre junio y octubre. Meta: banco de 75 ideas fuera de temporada. 
 
 **1.2 Creación de imanes físicos**: Usar la IA para diseñar 2 nuevos modelos de imanes de refri: 
@@ -22,9 +23,12 @@ Meta: Si 6 de 10 me dicen que sí, mando a producir. Si menos de 6 dicen que sí
 Meta: Vender 5 de 10 para validar que el diseño de Zapo funciona también en GDL.
 
 2. **Herramienta seleccionada**:
+
 - **META AI** Como "investigador conectado" para descubrir que compran los turistas en Zapotlanejo y Guadalajara de junio a Octubre.
+
 - **CHAT GPT** Como "Creativo de productos" par generar 3 variaciones de productos broma para cada diseño de iman en 2 minutos.
-- **GEMINI** Como analista estructurado" para redactar textos de imanes sin tema de la catrina y guiones de Reels de 15s.
+
+- **GEMINI** "Como analista estructurado" para redactar textos de imanes sin tema de la catrina y guiones de Reels de 15s.
 
 3. **Criterio de evaluación metrítica**
 
