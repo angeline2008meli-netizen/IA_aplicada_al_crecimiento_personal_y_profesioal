@@ -1,4 +1,5 @@
 1. Objetivo específico: Integrar la IA CHAT GPT,GEMINI Y META AI) para dejar de depender solo del día de muertos y navidad. Usaré la IA para crear nuevos productos de souvenir y contenido que me genere ventas en temporada baja. 
+
 **Sub-Objetivos medibles:**
 **1.1. Ideación asistida **: Sesión diaria de 15 a 20 minutos con la IA para generar ideas de souvenirs vendibles entre junio y octubre. Meta: banco de 75 ideas fuera de temporada. 
 **1.2 Creación de imanes físicos**: Usar la IA PARA DISEÑAR 2 nuevos modelos de imanes de refri de Zapotlanejo y Guadalajara con temática"todo el año" "Playeras, tazas, llaveros, imanes, todo relacionado con Zapotlanejo, puente de calderon, orgullo de Zapo. Mundial 2026.
