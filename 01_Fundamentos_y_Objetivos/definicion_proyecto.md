@@ -24,7 +24,7 @@ Meta: Vender 5 de 10 para validar que el diseño de Zapo funciona también en GD
 
 - **META AI** Como "investigador conectado" para descubrir que compran los turistas en Zapotlanejo y Guadalajara de junio a Octubre.
 
-- **CHAT GPT** Como "Creativo de productos" para generar 3 variaciones de productos broma para cada diseño de iman en 2 minutos.
+- **CHAT GPT** Como "Creativo de productos" para generar 3 variaciones de productos broma para cada diseño de imán en 2 minutos.
 
 - **GEMINI** "Como analista estructurado" para redactar textos de imanes sin tema de la catrina y guiones de Reels de 15s.
 
